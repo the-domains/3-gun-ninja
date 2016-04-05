@@ -1,0 +1,28 @@
+name: 3 Gun Ninja
+favicon: null
+layout_spectrum: 0.022196735255420208
+typography_spectrum: 0.13148300861939788
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.40527586499229074
+  lightness: 0.11625397158786654
+  saturation: 0.9449324698653072
+  rhythmicContrast: 0.13844766933470964
+purpose: []
