@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[3 Gun Ninja]]></title>
         <description><![CDATA[3 Gun Ninja]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://3gun.audra-brown.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 23:10:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 03:03:49 GMT</lastBuildDate>
+        <atom:link href="http://3gun.audra-brown.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://youtu.be/Y3bFOtyYUHc</p>]]></description>
+            <link>http://3gun.audra-brown.com/httpsyoutubey3bfotyyuhc/index.html</link>
+            <guid isPermaLink="false">67d98ee4-46a8-49e7-92a1-56c453a2a22f</guid>
+            <pubDate>Sun, 24 Apr 2016 03:03:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e55930f3-350d-432f-aa1b-53d26b7cbd84.png">]]></description>
-            <link>undefinedthe-rifle/index.html</link>
+            <link>http://3gun.audra-brown.com/the-rifle/index.html</link>
             <guid isPermaLink="false">ac705f14-53d8-488b-a5b0-22045040c7d6</guid>
             <pubDate>Thu, 14 Apr 2016 23:10:08 GMT</pubDate>
         </item>
