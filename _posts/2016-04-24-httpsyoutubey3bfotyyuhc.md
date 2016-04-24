@@ -1,27 +1,21 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
 description: 'https://youtu.be/Y3bFOtyYUHc'
-datePublished: '2016-04-24T03:03:49.226Z'
-dateModified: '2016-04-24T03:03:36.909Z'
-title: ''
 author: []
-authors: []
+datePublished: '2016-04-24T03:11:01.724Z'
 publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+  domain: www.youtube.com
+  name: youtube.com
+dateModified: '2016-04-24T03:10:08.909Z'
+title: ''
 starred: false
 sourcePath: _posts/2016-04-24-httpsyoutubey3bfotyyuhc.md
 published: true
+inFeed: true
+hasPage: true
+inNav: false
 url: httpsyoutubey3bfotyyuhc/index.html
+_context: 'http://schema.org'
 _type: Article
 
 ---
-[https://youtu.be/Y3bFOtyYUHc][0]
-
-[0]: https://youtu.be/Y3bFOtyYUHc
+https://youtu.be/Y3bFOtyYUHc
