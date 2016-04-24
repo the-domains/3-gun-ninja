@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - multigun
   - duration
@@ -61,14 +61,15 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Y3bFOtyYUHc&feature=youtu.be'
 title: Wild West Multigun (3-Gun) 2016 Stage1 Audra Brown
-datePublished: '2016-04-24T03:15:18.446Z'
-dateModified: '2016-04-24T03:13:17.631Z'
-starred: false
+datePublished: '2016-04-24T03:33:50.927Z'
+dateModified: '2016-04-24T03:33:29.768Z'
 sourcePath: _posts/2016-04-24-wild-west-multigun-3-gun-2016-stage1-audra-brown.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
