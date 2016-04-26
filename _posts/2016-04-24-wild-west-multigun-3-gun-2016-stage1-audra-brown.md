@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Audra Brown
-    url: 'https://www.youtube.com/channel/UCxAZKIbywy8SLLDJ9CAYCRw'
-    avatar: {}
-related: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=Y3bFOtyYUHc&feature=youtu.be'
+inLanguage: en
 keywords:
   - multigun
   - duration
@@ -21,7 +16,13 @@ keywords:
   - sapsc
   - west
 description: '2016 Wild West Multigun in Cresson, Texas.'
-inLanguage: en
+datePublished: '2016-04-26T16:21:18.722Z'
+dateModified: '2016-04-26T16:20:03.736Z'
+author:
+  - name: Audra Brown
+    url: 'https://www.youtube.com/channel/UCxAZKIbywy8SLLDJ9CAYCRw'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Y3bFOtyYUHc&feature=applinks'
     type: ios
@@ -59,16 +60,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Y3bFOtyYUHc&feature=youtu.be'
 title: Wild West Multigun (3-Gun) 2016 Stage1 Audra Brown
-datePublished: '2016-04-24T03:33:50.927Z'
-dateModified: '2016-04-24T03:33:29.768Z'
 sourcePath: _posts/2016-04-24-wild-west-multigun-3-gun-2016-stage1-audra-brown.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
 authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: true
 _type: VideoObject
 _context: 'http://schema.org'
