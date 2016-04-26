@@ -15,8 +15,8 @@ keywords:
   - sapsc
   - multi-gun
 description: Uploaded by Audra Brown on 2016-04-26.
-datePublished: '2016-04-26T18:07:46.635Z'
-dateModified: '2016-04-26T18:07:04.951Z'
+datePublished: '2016-04-26T18:15:58.967Z'
+dateModified: '2016-04-26T18:07:52.498Z'
 author:
   - name: Audra Brown
     url: 'https://www.youtube.com/channel/UCxAZKIbywy8SLLDJ9CAYCRw'
@@ -60,6 +60,8 @@ app_links:
     namespace: google
     type: ios
 title: Wild West Multigun 2016 Stage 8 Audra Brown
+sourcePath: _posts/2016-04-26-wild-west-multigun-2016-stage-8-audra-brown.md
+published: true
 authors: []
 publisher:
   name: YouTube
@@ -67,8 +69,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
-sourcePath: _posts/2016-04-26-wild-west-multigun-2016-stage-8-audra-brown.md
-published: true
 url: wild-west-multigun-2016-stage-8-audra-brown/index.html
 _type: VideoObject
 _context: 'http://schema.org'
